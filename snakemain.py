@@ -1,0 +1,2 @@
+from snakePanel import *
+main()
